@@ -1,0 +1,7 @@
+cara running program c# di vscode :
+
+dotnet new console -o nama_project  << Enter >>
+
+cara runningnya :
+dotnet run --project nama_project << Enter >>
+
